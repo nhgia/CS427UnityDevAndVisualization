@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: a621b7e98523748f1b5604b50927f7aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9176946198546190683
+    second: Mobile - The Battle Cats - Fish Cat_0
+  - first:
+      213: -5427848559391221215
+    second: Mobile - The Battle Cats - Fish Cat_1
+  - first:
+      213: -4803683634716191342
+    second: Mobile - The Battle Cats - Fish Cat_2
+  - first:
+      213: -8593036526870195559
+    second: Mobile - The Battle Cats - Fish Cat_3
+  - first:
+      213: 2603526064315349689
+    second: Mobile - The Battle Cats - Fish Cat_4
+  - first:
+      213: -1653669237810999330
+    second: Mobile - The Battle Cats - Fish Cat_5
+  - first:
+      213: -6008896145620790761
+    second: Mobile - The Battle Cats - Fish Cat_6
+  - first:
+      213: 4423926132055757804
+    second: Mobile - The Battle Cats - Fish Cat_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 131
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5074e668ff73448e1b44b3596178d1b0
+      internalID: 9176946198546190683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 129
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735351f4b69d42fa8adf04460977a1a
+      internalID: -5427848559391221215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 128
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ca0161237cc40d68727d4f68c033e3
+      internalID: -4803683634716191342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 129
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2959cb997f6314c989b15ab6a2c58b6c
+      internalID: -8593036526870195559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 131
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b068ba4a84344d28a1d9fe489c1976
+      internalID: 2603526064315349689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 131
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add01447db9e5402da1406d4052a0864
+      internalID: -1653669237810999330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_6
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 131
+        height: 98
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84e40516f3544bac96d02e8f90dddfb
+      internalID: -6008896145620790761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - The Battle Cats - Fish Cat_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 128
+        height: 99
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a853c24904d47a18e67f7b51965282
+      internalID: 4423926132055757804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7248a5e73ae7a4b53ab5bdaddeb9ae01
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
